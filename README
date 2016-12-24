@@ -1,0 +1,25 @@
+Spaceship Escape
+
+Description:
+This program is a simple game written in Java, where the user will be able to
+control a spaceship using the arrow keys, and stop the plane by pressing the
+space bar. The end-goal of the game is to avoid the yellow star popping up from
+the sides of the canvas as long as possible. The longer the user can survive
+from the collisions, the higher place the user can get.
+
+To run:
+There is already a Makefile written to automate the compilation and running
+commands. The user simply needs to navigate from the terminal to the folder
+that contains the files and type
+
+make run
+
+to run the program.
+
+To clean up the folder:
+Upon running the program, there will be numerous class files created. Simply
+type
+
+make clean
+
+to delete the class files.
